@@ -32,17 +32,3 @@ Then open brower with url
 ```text
 http://localhost:3000
 ```
-
-## There are 3 To do templates
-
-### TodoApp
-
-A simple to do app, can only add a to do list.
-
-### TodoAppEnhance
-
-A simple to do app, with seperate a list and item components.
-
-### TodoAppHook
-
-A to do app implemented with Hook, also can toggle strike though the text when click at to do item.
